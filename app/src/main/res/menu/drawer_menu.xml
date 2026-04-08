@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group1">
+
+        <item android:id="@+id/Devteam"
+            android:title="DevTeam"
+            android:icon="@drawable/dev"/>
+
+
+    </group>
+    <group android:id="@+id/group2">
+        <item android:id="@+id/AboutApp"
+            android:title="About Finance Manager"
+            android:icon="@drawable/info"/>
+        <item android:id="@+id/ReportBug"
+            android:title="Report Bug"
+            android:icon="@drawable/bug"/>
+
+    </group>
+    <group android:id="@+id/group3">
+        <item android:id="@+id/share"
+            android:title="Share"
+            android:icon="@drawable/share"/>
+        <item android:id="@+id/contactus"
+            android:title="Contact Us"
+            android:icon="@drawable/contact"/>
+
+    </group>
+
+
+</menu>

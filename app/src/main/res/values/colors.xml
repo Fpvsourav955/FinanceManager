@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+        <color name="bg_dark">#141B41</color>
+        <color name="primary">#306BAC</color>
+    <color name="primary1">#10276a</color>
+        <color name="secondary">#6F9CEB</color>
+        <color name="card_light">#98B9F2</color>
+        <color name="accent">#918EF4</color>
+    <color name="on_surface">#11183E</color>
+        <color name="text_primary">#FFFFFF</color>
+        <color name="text_secondary">#B0B3C7</color>
+    <color name="bg_light">#F0F2F8</color>
+
+    <color name="avatar_bg">#C8CFEC</color>
+    <color name="accent_blue">#2A5DB0</color>
+    <color name="icon_bg_blue">#E8EDF8</color>
+    <color name="text_primary_dark">#1A1F3D</color>
+
+    <color name="text_section_header">#9AA0B8</color>
+    <color name="premium_badge_bg">#E6EAF6</color>
+    <color name="logout_red">#E0362C</color>
+    <color name="logout_bg">#FDE9E8</color>
+    <color name="divider_color">#ECEEF5</color>
+    <color name="switch_track_off">#C8CEDA</color>
+    <color name="nav_unselected">#9AA0B8</color>
+        <color name="income_green">#4CAF50</color>
+        <color name="expense_red">#F44336</color>
+        <color name="card_dark">#1E255E</color>
+        <color name="divider">#2A3166</color>
+
+    </resources>

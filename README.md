@@ -133,7 +133,35 @@ git clone https://github.com/Fpvsourav955/FinanceManager.git
 🔗 Download / Test App
 
 👉 Play Store Internal Testing Link:
-Click here to install
+[Click here to install](https://play.google.com/apps/test/RQX4l824Lds/ahAO29uNRDlC35mJ5pyMs56DSv1LgiBCec1Zonp6XR_YODeBR9p0pSAQ6lgLnyKb9LxBB7qfo-ig4mQaZ63_T99wSq)
+👉Drive Link APK
+[Click here to download](https://drive.google.com/file/d/1HpK7sZZOSkOJ1BzPLigRLZyQyPzkyX_n/view?usp=drive_link)
+📦 Install APK via Internal App Sharing
+
+To quickly test the latest version of the app, use Google Play Internal App Sharing.
+
+🚀 Steps to Install
+1️⃣ Enable Internal App Sharing
+Open Google Play Store
+Tap your Profile icon (top right)
+Go to Settings
+Scroll down and open About
+Tap “Play Store version” 7 times
+
+You will see:
+
+✅ Internal app sharing enabled
+
+2️⃣ Turn ON Internal App Sharing
+Go back to Settings
+Tap General
+Open Internal app sharing
+Turn it ON
+
+3️⃣ Install the App
+Open the provided Internal App Sharing link
+Tap Download
+Install the app
 
 ## 👨‍💻 Developer
 

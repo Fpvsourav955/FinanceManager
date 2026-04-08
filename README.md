@@ -8,7 +8,7 @@
 
 📱 Screenshots
 <p align="center">
-  <img src=".Finance Sc.png" width="250"/>
+  <img src="./screenshots/login.png"/>
 
 </p>
 

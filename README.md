@@ -7,13 +7,16 @@
 ## 📱 App Screens
 
 📱 Screenshots
+<p align="center">
+  <img src=".Finance Sc.png" width="250"/>
 
+</p>
 
 ### 🔐 Login & Onboarding
 
 * Email & Password login
 * Google Sign-In supported
-* Clean onboarding with modern UI![Uploading Screenshot 2026-04-08 013521.png…]()
+* Clean onboarding with modern UI!
 
 
 ### 🏠 Dashboard

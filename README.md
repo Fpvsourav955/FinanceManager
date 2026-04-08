@@ -140,7 +140,6 @@ git clone https://github.com/Fpvsourav955/FinanceManager.git
 **[Click here to download](https://drive.google.com/file/d/1HpK7sZZOSkOJ1BzPLigRLZyQyPzkyX_n/view?usp=drive_link)**
 
 ---
-How To Use the App->
 **[Click here to watch Video](https://drive.google.com/file/d/1aoJaVKKIgRAPqLD3WH2m7rZOBY3FfC0J/view?usp=drive_link)**
 📦 Install APK via Internal App Sharing
 

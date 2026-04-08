@@ -132,7 +132,7 @@ git clone https://github.com/Fpvsourav955/FinanceManager.git
 ---
 🔗 Download / Test App
 
-👉 Play Store Internal Testing Link:
+👉 Play Store Internal Sharing Link:
 **[Click here to install](https://play.google.com/apps/test/RQX4l824Lds/ahAO29uNRDlC35mJ5pyMs56DSv1LgiBCec1Zonp6XR_YODeBR9p0pSAQ6lgLnyKb9LxBB7qfo-ig4mQaZ63_T99wSq)**
 
 ---
